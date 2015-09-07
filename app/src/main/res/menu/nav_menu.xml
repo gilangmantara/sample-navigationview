@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/main"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/inbox"
+            android:checked="false"
+            android:title="@string/menu_inbox" />
+
+        <item
+            android:id="@+id/sent"
+            android:checked="false"
+            android:title="@string/menu_sent" />
+
+        <item
+            android:id="@+id/spam"
+            android:checked="false"
+            android:title="@string/menu_spam" />
+
+    </group>
+    <group android:id="@+id/sub">
+        <item
+            android:id="@+id/logout"
+            android:checked="false"
+            android:title="@string/menu_logout" />
+    </group>
+</menu>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sample NavigationView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+    <string name="username">Your Username</string>
+    <string name="email">sample@mail.com</string>
+
+    <string name="menu_inbox">Inbox</string>
+    <string name="menu_sent">Sent</string>
+    <string name="menu_spam">Spam</string>
+    <string name="menu_logout">Logout</string>
+</resources>
