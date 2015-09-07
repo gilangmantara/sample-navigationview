@@ -10,7 +10,7 @@ import android.view.ViewGroup;
  * Created by Gilang on 07/09/2015.
  */
 public class InboxFragment extends Fragment {
-
+//tes
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         return inflater.inflate(R.layout.fragment, container, false);
